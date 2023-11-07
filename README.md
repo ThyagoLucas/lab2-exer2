@@ -1,1 +1,1 @@
-# Lab-02 - Exercicio 1
+# Lab-02 - Exercicio 2
